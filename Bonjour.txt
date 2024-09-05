@@ -1,1 +1,9 @@
-Bonjour
+Bonjour,
+
+Voici mon github contenant tous mes projets.
+
+--------------------------------------------
+
+Hello,
+
+Here is my github where you'll find all my projects.
