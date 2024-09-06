@@ -20,11 +20,11 @@ Voici tous mes projets récents depuis l'IUT.
 
 ***SAE 2.01*** - Implémentation du besoin client | Création d'une application
 
-***SAE 2.02 - Comparaison d'approches algorithmiques | Placement de 8 Dames sur un échiquier
+***SAE 2.02*** - Comparaison d'approches algorithmiques | Placement de 8 Dames sur un échiquier
 
-***SAE 2.03 - Installation d'un poste pour le développement | Installation d'un serveur web
+***SAE 2.03*** - Installation d'un poste pour le développement | Installation d'un serveur web
 
-***SAE 2.04 - Création d'une base de données | Création, peuplement et analyse d'une base de données
+***SAE 2.04*** - Création d'une base de données | Création, peuplement et analyse d'une base de données
 
 ***SAE 2.05*** - Recueil de besoins | Gestion d'un Projet (SAE 2.01)
 
